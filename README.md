@@ -1,6 +1,6 @@
 # Aufwind - Bildung und Chancen für Alle
 
-![Aufwind Logo](aufwind_logo.png)
+![Aufwind Logo](aufwind_logo_transparent.png)
 
 ## About the Project
 
